@@ -7,7 +7,7 @@ include 'includes/nav.php';
 <?php
 session_start();
 
-//require_once 'credentials.php';
+require_once 'credentials.php';
 
 $message = '';
 
